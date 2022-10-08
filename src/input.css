@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shopping_bag {
+  color: white;
+  font-size: 14px;
+}
+
+.love {
+  @apply text-blue-600;
+}
